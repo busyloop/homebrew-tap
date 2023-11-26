@@ -1,7 +1,7 @@
 class Envcat < Formula
-  VERSION = "1.0.3"
+  VERSION = "1.1.0"
   BIN = "envcat-#{VERSION}.darwin-x86_64"
-  SHA256 = "b9f32fdbec02734d3e93d66c06f1a5a592e8dbcbea6c217f7e9f7419e691a4a3"
+  SHA256 = "be4f427f8d30df6515fd80e0c62bda24a9038567f57df59bad78d45ad968d26d"
 
   desc "Meow!"
   homepage "https://github.com/busyloop/envcat"
@@ -33,7 +33,7 @@ class Envcat < Formula
         `-.-' \\ )-`( , o o)
               `-    \\`_`"'-
 
-    `envcat` and `envtpl` should now be in your PATH.
+    `envcat` and `envtpl` are now in your PATH.
     See `envcat --help` for usage details.
 
     Enjoy!
