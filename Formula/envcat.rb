@@ -1,7 +1,7 @@
 class Envcat < Formula
-  VERSION = "1.1.0"
+  VERSION = "1.1.1"
+  SHA256 = "917e901f74174ab3fff6f9e9029241476544b09a0cdcd633a46b0645659e158b"
   BIN = "envcat-#{VERSION}.darwin-x86_64"
-  SHA256 = "be4f427f8d30df6515fd80e0c62bda24a9038567f57df59bad78d45ad968d26d"
 
   desc "Meow!"
   homepage "https://github.com/busyloop/envcat"
