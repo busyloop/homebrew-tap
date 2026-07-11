@@ -2,7 +2,7 @@ class Csync < Formula
   include Language::Python::Shebang
 
   NAME = "csync".freeze
-  VERSION = "1.2.0".freeze
+  VERSION = "1.3.0".freeze
 
   desc "Sync clean working copies of local Git repos to a remote host via rsync"
   homepage "https://github.com/busyloop/#{NAME}"
